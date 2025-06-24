@@ -25,4 +25,4 @@ The directory where you execute "server" has to have the following structure:
 ├── pca_result.csv              
 ├── Código trabajo.py
 
-├── server
+├── server.bat
