@@ -1,4 +1,5 @@
 In "Data" you can find all the datasets and data that have been used to develop the project.
+
 ├── globalterrorism_processed.csv  <- main dataset with the deaths per country and year
 ├── ordered_country_list.csv       <- ordered country list for the heatmap
 ├── timeline_data.csv              <- total deaths per year for the timeline
@@ -11,6 +12,7 @@ In "proyecto5" you can find the html which is used for creating the graphics and
 "Server" creates automatically a local server and executes proyecto5.html, so you can see instantly the visuals.
 
 The directory where you execute "server" has to have the following structure:
+
 │
 ├── proyecto5.html                 
 ├── globalterrorism_processed.csv  
