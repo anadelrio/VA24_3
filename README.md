@@ -10,13 +10,13 @@ In "Data" you can find all the datasets and data that have been used to develop 
 
 In "Código trabajo" you can find the code used for cretaing the PCA (it vas created using Python).
 
-In "proyecto5" you can find the html which is used for creating the graphics and visualizations.
+In "proyecto5.html" you can find the html which is used for creating the graphics and visualizations.
 
-"Server" creates automatically a local server and executes proyecto5.html, so you can see instantly the visuals.
+"Server.bat" creates automatically a local server and executes proyecto5.html, so you can see instantly the visuals.
 
-"Report_guidedocument" contains a guide document of the poject, where every visualization is explained in detail.
+"Report_guidedocument.pdf" contains a guide document of the poject, where every visualization is explained in detail.
 
-"Presentation" contains the presentation that will be used.
+"Presentation_visual.pdf" contains the presentation that will be used.
 
 The directory where you execute "server" has to have the following structure:
 
