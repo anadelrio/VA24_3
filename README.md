@@ -14,6 +14,10 @@ In "proyecto5" you can find the html which is used for creating the graphics and
 
 "Server" creates automatically a local server and executes proyecto5.html, so you can see instantly the visuals.
 
+"Report_guidedocument" contains a guide document of the poject, where every visualization is explained in detail.
+
+"Presentation" contains the presentation that will be used.
+
 The directory where you execute "server" has to have the following structure:
 
 │
